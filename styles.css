@@ -34,8 +34,6 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 30px 80px;
-    background: rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(10px);
 }
 
 .nav-brand {
